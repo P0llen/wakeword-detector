@@ -15,7 +15,7 @@ Make sure you are not mixing environments:
 
 python3 -m venv testenv source testenv/bin/activate
 
-![Wakeword Detector UI](https://github.com/your-username/your-repo/raw/main/docs/Wakeword%20Detector.png)
+![Wakeword Detector UI](https://github.com/P0llen/wakeword-detector/blob/main/docs/Wakeword%20Detector.png?raw=true)
 
 # Use TestPyPI if installing dev builds:
 
