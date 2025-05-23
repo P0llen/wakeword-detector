@@ -1,3 +1,5 @@
+Note: Still in development, as I am configuring the system for the most performant approach. Feel free to jump on the project with me. 
+
 Wakeword Detector by Lara Whybrow lara.whybrow@gmail.com
 A Python package for training and running real-time wakeword detection using PyTorch and TensorFlow, with GPU acceleration support.
 
